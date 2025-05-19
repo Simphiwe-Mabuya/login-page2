@@ -134,3 +134,7 @@ form .option-div {
     cursor: pointer;
     transition: all 0.3s linear;
 }
+
+.button input:hover {
+    background: #a720c5;
+}
