@@ -143,3 +143,7 @@ form .sign-up {
     text-align: center;
     margin-top: 25px;
 }
+
+.sign-up a {
+    color: #aa63b9;
+}
