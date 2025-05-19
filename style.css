@@ -39,7 +39,7 @@ html,body {
     line-height: 45px;
     text-align: center;
     border-radius: 5px;
-    font-size: 50px;
+    font-size: 20px;
     color: #fff;
     text-decoration: none;
     transition: all 0.3s linear;
@@ -48,4 +48,9 @@ html,body {
 .social-icons a span {
     margin-left: 5px;
     font-size: 18px;
+}
+
+.social-icons a:first-child{
+    margin-right: 5px;
+    background:#4267B2;
 }
