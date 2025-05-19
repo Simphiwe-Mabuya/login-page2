@@ -64,3 +64,6 @@ html,body {
     background: #1DA1F2;
 }
 
+.social-icons a:last-child:hover{
+    background: #0d8bd9;
+}
