@@ -11,3 +11,11 @@ html,body {
     place-items: center;
     background:#ebcaf3 ;
 }
+
+.main-div {
+    width: 365px;
+    background: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+}
