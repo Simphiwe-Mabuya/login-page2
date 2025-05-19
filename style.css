@@ -4,3 +4,10 @@
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
 }
+
+html,body {
+    display: grid;
+    height: 100hv;
+    place-items: center;
+    background:#ebcaf3 ;
+}
