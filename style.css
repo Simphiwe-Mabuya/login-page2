@@ -123,3 +123,14 @@ form .option-div {
     font-size: 16px;
     color: #ab49c1;
 }
+
+.button input {
+    padding-left: 0;
+    background: #af66c0;
+    color: #fff;
+    border: none;
+    font-size: 20px;
+    font-weight: 500px;
+    cursor: pointer;
+    transition: all 0.3s linear;
+}
