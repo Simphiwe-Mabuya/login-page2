@@ -138,3 +138,8 @@ form .option-div {
 .button input:hover {
     background: #a720c5;
 }
+
+form .sign-up {
+    text-align: center;
+    margin-top: 25px;
+}
