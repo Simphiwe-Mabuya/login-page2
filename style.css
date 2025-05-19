@@ -67,3 +67,7 @@ html,body {
 .social-icons a:last-child:hover{
     background: #0d8bd9;
 }
+
+form {
+    margin-top: 25px;
+}
