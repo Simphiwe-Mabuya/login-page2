@@ -71,3 +71,10 @@ html,body {
 form {
     margin-top: 25px;
 }
+
+form .input-box {
+    height: 50px;
+    width: 100%;
+    position: relative;
+    margin-top: 15px;
+}
