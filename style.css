@@ -118,3 +118,8 @@ form .option-div {
     font-size: 16px;
     color: #333;
 }
+
+.option-div .forget-div a {
+    font-size: 16px;
+    color: #ab49c1;
+}
