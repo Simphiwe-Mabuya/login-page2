@@ -58,3 +58,9 @@ html,body {
 .social-icons a:first-child:hover {
     background: #375695;
 }
+
+.social-icons a:last-child{
+    margin-left: 5px;
+    background: #1DA1F2;
+}
+
