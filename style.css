@@ -89,3 +89,7 @@ form .input-box {
     font-size: 17px;
     transition: all 0.3s ease;
 }
+
+.input-box input:focus {
+    border-color: #be2edd;
+}
