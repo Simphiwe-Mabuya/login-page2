@@ -101,3 +101,9 @@ form .input-box {
     transform: translateY(-50%);
     color: grey;
 }
+
+form .option-div {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
