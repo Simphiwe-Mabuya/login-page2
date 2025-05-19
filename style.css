@@ -9,7 +9,8 @@ html,body {
     display: grid;
     height: 100hv;
     place-items: center;
-    background:#ebcaf3 ;
+    background:#d692e7;
+    margin-top: 20px;
 }
 
 .main-div {
