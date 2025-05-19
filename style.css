@@ -54,3 +54,7 @@ html,body {
     margin-right: 5px;
     background:#4267B2;
 }
+
+.social-icons a:first-child:hover {
+    background: #375695;
+}
