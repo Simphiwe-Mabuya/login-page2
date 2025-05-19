@@ -112,3 +112,9 @@ form .option-div {
     display: flex;
     align-items: center;
 }
+
+.option-div span {
+    margin-left: 5px;
+    font-size: 16px;
+    color: #333;
+}
