@@ -147,3 +147,7 @@ form .sign-up {
 .sign-up a {
     color: #aa63b9;
 }
+
+form a {
+    text-decoration: none;
+}
