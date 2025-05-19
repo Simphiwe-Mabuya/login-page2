@@ -25,3 +25,9 @@ html,body {
     font-size: 30px ;
     font-weight: 600px;
 }
+
+.main-div .social-icons {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
